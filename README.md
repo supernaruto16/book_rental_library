@@ -10,4 +10,4 @@
 ## Github
 [Frontend](https://github.com/truongdo619/UET_BookRentalLibrary)
 
-[Backend](https://github.com/phong9876phong/UET_BookRentalLibrary_Backend)
+[Backend](https://github.com/dhphong/UET_BookRentalLibrary_Backend)
