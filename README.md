@@ -17,27 +17,34 @@
 
 ## Tổng quan về hệ thống
 
-# Back-End
+### Back-End
 
 Flask, Flask-RESTPlus, Swagger UI
 
 ![alt Flash](https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png)
 
-# Front-End
+### Front-End
 
 VueJS + Element UI
 
 ![alt Vue](https://zendvn.com/wp-content/uploads/2019/09/Vue.js-cta-main.jpg)
 
-# Database-Schema
+### Database-Schema
 
 ![alt db](/db.png)
 
-# SRS-Document
+### SRS-Document
 
 [Software requirements specification](/SRS_Web.pdf)
 
 
 ## Giao diện website
 
-# Homepage
+### Homepage
+![alt homepage](/version2/Homepage.png)
+
+### Book Detail
+![alt bookdetail](/version2/BookDetail.png)
+
+### User Page
+![alt bookdetail](/version2/UserPage.png)
