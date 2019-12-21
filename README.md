@@ -30,3 +30,14 @@ VueJS + Element UI
 ![alt Vue](https://zendvn.com/wp-content/uploads/2019/09/Vue.js-cta-main.jpg)
 
 # Database-Schema
+
+![alt db](/db.png)
+
+# SRS-Document
+
+[Software requirements specification](/SRS_Web.pdf)
+
+
+## Giao diện website
+
+# Homepage
