@@ -48,3 +48,9 @@ VueJS + Element UI
 
 ### User Page
 ![alt bookdetail](/version2/UserPage.png)
+
+### Log In Page
+![alt bookdetail](/version2/SignIn.png)
+
+### Sign Up Page
+![alt bookdetail](/version2/SignUp.png)
