@@ -9,6 +9,7 @@
 
 ## Demo website:
 [Demo](http://3.1.80.54)
+[Swagger UI](https://3.1.80.54:5000)
 
 ## Github
 
@@ -17,6 +18,8 @@ Phần hướng dẫn cài đặt từng phần sẽ trong readme của Frontend
 [Frontend](https://github.com/truongdo619/UET_BookRentalLibrary)
 
 [Backend](https://github.com/dhphong/UET_BookRentalLibrary_Backend)
+
+[Search Engine - Recommender System](https://github.com/thanglegons/Porg)
 
 ## Tổng quan về hệ thống
 
