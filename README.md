@@ -11,11 +11,18 @@
 [Demo](http://3.1.80.54)
 
 ## Github
+
+Phần hướng dẫn cài đặt từng phần sẽ trong readme của Frontend và Backend
+
 [Frontend](https://github.com/truongdo619/UET_BookRentalLibrary)
 
 [Backend](https://github.com/dhphong/UET_BookRentalLibrary_Backend)
 
 ## Tổng quan về hệ thống
+
+### SRS-Document
+
+[Software requirements specification](/SRS_Web.pdf)
 
 ### Back-End
 
@@ -33,15 +40,14 @@ VueJS + Element UI
 
 ![alt db](/db.png)
 
-### SRS-Document
-
-[Software requirements specification](/SRS_Web.pdf)
-
 
 ## Giao diện website
 
 ### Homepage
 ![alt homepage](/version2/Homepage.png)
+
+### Search Page
+![alt searchpage](/version2/SearchPage.PNG)
 
 ### Book Detail
 ![alt bookdetail](/version2/BookDetail.png)
